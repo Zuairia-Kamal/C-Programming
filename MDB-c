@@ -1,27 +1,4 @@
-/*
- *  CSC A48 - Assignment 1 starter
 
- */
-
-/* Student identification:
- * 
- * Student Name (Last name, First name): Kamal Zuairia Binte
- * Student Number: 1010934303
- * UTORid: kamalzua
- * Your instructor's name is: Rawad Abou Assi
- */
-
-/* Academic Integrity Statement:
- * 
- * I hereby certify that the work contained in this file is my own, and
- * that I have not received any parts of my solution from other sources
- * including my fellow students, external tutoring services, the internet,
- * or algorithm implementations found online.
- * 
- * Sign here with your name: Zuairia Binte Kamal
- *
- *  
- */
 
 #include <stdio.h>
 #include <stdlib.h>
