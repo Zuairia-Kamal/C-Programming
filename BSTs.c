@@ -1,8 +1,5 @@
-/*
-  CSC A48 - Assignment 2 - BSTs, Traversals, a tiny Sequencer
 
-    (c) F. Estrada
-*/
+
 
 #include<stdio.h>
 #include<stdlib.h>
